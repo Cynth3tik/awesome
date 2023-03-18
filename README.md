@@ -310,7 +310,7 @@
 
 *   [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 
-*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - An emerging platform to help developers build #AI solutions
+*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
 
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
