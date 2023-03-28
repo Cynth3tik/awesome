@@ -278,7 +278,7 @@
 
 *   [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 
-*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 
 ## C
 
