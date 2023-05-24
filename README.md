@@ -256,7 +256,7 @@
 
 *   [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 
-*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a central hub for all thing Generative AI. Enabling developers to bring AI powered projects to production in a fast and scalable way.
+*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a central hub for all thing Generative AI. Enabling developers to ship AI powered projects to production in a fast and scalable way.
 
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
 
