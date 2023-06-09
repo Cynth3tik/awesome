@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
-*   [Java](#java)
 *   [Go](#go)
 *   [Svelte](#svelte)
 *   [C](#c)
@@ -25,6 +25,14 @@
 *   [Dockerfile](#dockerfile)
 *   [PHP](#php)
 *   [Pug](#pug)
+
+## Java
+
+*   [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
+
+*   [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+
+*   [gaia-app/gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻
 
 ## miscellaneous
 
@@ -228,8 +236,6 @@
 
 *   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
-*   [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
-
 ## Python
 
 *   [HA6Bots/TikTok-Compilation-Video-Generator](https://github.com/HA6Bots/TikTok-Compilation-Video-Generator) - A system of bots that collects clips automatically via custom made filters, lets you easily browse these clips, and puts them together into a compilation video ready to be uploaded straight to any social media platform. Full VPS support is provided, along with an accounts system so multiple users can use the bot at once. This bot is split up into three separate programs. The server. The client. The video generator. These programs perform different functions that when combined creates a very powerful system for auto generating compilation videos.
@@ -297,12 +303,6 @@
 *   [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 
 *   [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-
-## Java
-
-*   [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
-
-*   [gaia-app/gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻
 
 ## Go
 
