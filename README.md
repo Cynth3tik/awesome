@@ -450,7 +450,7 @@
 
 ## Dockerfile
 
-*   [renovatebot/docker-renovate-full](https://github.com/renovatebot/docker-renovate-full) - Repo for building the renovate/renovate:latest image
+*   [renovatebot/docker-renovate-full](https://github.com/renovatebot/docker-renovate-full) - Repo for building the renovate/renovate:full image
 
 *   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
 
