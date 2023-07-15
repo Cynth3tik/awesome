@@ -28,6 +28,12 @@
 
 ## Python
 
+*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
+
+*   [teticio/lambda-scraper](https://github.com/teticio/lambda-scraper) - Use AWS Lambda functions as a proxy pool to scrape web pages.
+
+*   [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+
 *   [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically by just providing examples
 
 *   [alew3/faceit\_live](https://github.com/alew3/faceit_live) - Swap your face in realtime to someone's else.
@@ -273,12 +279,6 @@
 *   [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
 
 *   [AlexChesser/recruiter-autoresponse](https://github.com/AlexChesser/recruiter-autoresponse) - Based on the Medium Article entitled - "Career Advice Nobody Gave Me: Never ignore a recruiter" this repo has a copyable script which you can use to auto-respond to recruiters.
-
-*   [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
-
-*   [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
-
-*   [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium's OAuth2 API
 
 ## TypeScript
 
