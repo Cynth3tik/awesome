@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Scala](#scala)
 *   [Shell](#shell)
 *   [Go](#go)
 *   [Python](#python)
@@ -28,6 +29,10 @@
 *   [Dockerfile](#dockerfile)
 *   [PHP](#php)
 *   [Pug](#pug)
+
+## Scala
+
+*   [softwaremill/elasticmq](https://github.com/softwaremill/elasticmq) - In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
 
 ## Shell
 
@@ -280,8 +285,6 @@
 *   [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 
 *   [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
-
-*   [BobNisco/Spotlistr](https://github.com/BobNisco/Spotlistr) - 🎧 Convert Anything to a Spotify Playlist!
 
 ## Java
 
