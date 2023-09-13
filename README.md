@@ -32,6 +32,8 @@
 
 ## Jupyter Notebook
 
+*   [sugatagh/E-commerce-Text-Classification](https://github.com/sugatagh/E-commerce-Text-Classification) - Proper categorization of e-commerce products enhances the user experience and achieves better results with external search engines. The objective of the project is to classify a product into four given categories, based on its description available on an e-commerce platform.
+
 *   [edumunozsala/RoBERTa\_Encoder\_Decoder\_Product\_Names](https://github.com/edumunozsala/RoBERTa_Encoder_Decoder_Product_Names) - Define Transformers, T5 model and RoBERTa Encoder decoder model for product names generation
 
 *   [CoderHam/VideoSimilarity](https://github.com/CoderHam/VideoSimilarity) - Capstone Project for MS in Data Science @ University of Washington - Video Similarity Search
@@ -207,8 +209,6 @@
 *   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
 *   [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
-
-*   [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
 
 ## Go
 
