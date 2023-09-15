@@ -32,6 +32,8 @@
 
 ## TypeScript
 
+*   [ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly) - 📝 JSON powered / Dynamic forms for Angular
+
 *   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
 
 *   [saleor/apps](https://github.com/saleor/apps) - A central space for Saleor Apps, integrations, and the App Store 🚀
@@ -261,8 +263,6 @@
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
 *   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-
-*   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
 ## Rust
 
