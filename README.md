@@ -202,7 +202,7 @@
 
 ## JavaScript
 
-*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
+*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 
 *   [mcollina/fastq](https://github.com/mcollina/fastq) - Fast, in memory work queue
 
