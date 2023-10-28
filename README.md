@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [Svelte](#svelte)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
-*   [Python](#python)
 *   [HTML](#html)
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -30,6 +30,112 @@
 *   [PHP](#php)
 *   [Pug](#pug)
 *   [MDX](#mdx)
+
+## Python
+
+*   [cowboy-bebug/app-store-scraper](https://github.com/cowboy-bebug/app-store-scraper) - Single API ☝ App Store Review Scraper 🧹
+
+*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
+
+*   [towhee-io/towhee](https://github.com/towhee-io/towhee) - Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.
+
+*   [prafulladiwesh/simskip](https://github.com/prafulladiwesh/simskip) - Deep Hashing for High Dimensional similarity search on embedded data using ImageNet and Glove Dataset using Deep Neural Network algorithms.
+
+*   [ustb-zhangmin/neural-hash](https://github.com/ustb-zhangmin/neural-hash) - some test about achieve hash function by neural net
+
+*   [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
+
+*   [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Marqo is more than a vector database, it's an end-to-end vector search engine for both text and images. Also available on cloud - cloud.marqo.ai
+
+*   [Sadiqush/RVSearch](https://github.com/Sadiqush/RVSearch) - Tool to reverse search videos on YouTube based on frame similarities found
+
+*   [qrzeller/OpenCV-Video-Comparison](https://github.com/qrzeller/OpenCV-Video-Comparison) - In order to compare multiple video, scene etc... Compute similarity, and say if video are of the same origin even if modified, altered, scene cutted or added and even content modification.
+
+*   [lyakaap/ISC21-Descriptor-Track-1st](https://github.com/lyakaap/ISC21-Descriptor-Track-1st) - The 1st Place Solution of the Facebook AI Image Similarity Challenge (ISC21) : Descriptor Track.
+
+*   [line/Meta-AI-Video-Similarity-Challenge-3rd-Place-Solution](https://github.com/line/Meta-AI-Video-Similarity-Challenge-3rd-Place-Solution) - The 3rd Place Solution of the Meta AI Video Similarity Challenge : Descriptor Track and Matching Track.
+
+*   [ahmetozlu/tensorflow\_object\_counting\_api](https://github.com/ahmetozlu/tensorflow_object_counting_api) - 🚀 The TensorFlow Object Counting API is an open source framework built on top of TensorFlow and Keras that makes it easy to develop object counting systems!
+
+*   [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
+
+*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
+
+*   [teticio/lambda-scraper](https://github.com/teticio/lambda-scraper) - Use AWS Lambda functions as a proxy pool to scrape web pages.
+
+*   [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+
+*   [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically by just providing examples
+
+*   [alew3/faceit\_live](https://github.com/alew3/faceit_live) - Swap your face in realtime to someone's else.
+
+*   [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
+
+*   [BioRat1/ReBomb2](https://github.com/BioRat1/ReBomb2) - Newest version of the ReBomb: TikTok Mass Report Bot
+
+*   [HA6Bots/TikTok-Compilation-Video-Generator](https://github.com/HA6Bots/TikTok-Compilation-Video-Generator) - A system of bots that collects clips automatically via custom made filters, lets you easily browse these clips, and puts them together into a compilation video ready to be uploaded straight to any social media platform. Full VPS support is provided, along with an accounts system so multiple users can use the bot at once. This bot is split up into three separate programs. The server. The client. The video generator. These programs perform different functions that when combined creates a very powerful system for auto generating compilation videos.
+
+*   [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) -
+
+*   [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
+
+*   [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+
+*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+
+*   [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+
+*   [makiisthenes/TiktokAutoUploader](https://github.com/makiisthenes/TiktokAutoUploader) - Automatically Edits Videos and Uploads to Tiktok with 1 line of code.
+
+*   [eps696/aphantasia](https://github.com/eps696/aphantasia) - CLIP + FFT/DWT/RGB = text to image/video
+
+*   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+
+*   [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
+
+*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
+
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notificatio
+
+*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
+
+*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+
+*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+
+*   [edgedb/imdbench](https://github.com/edgedb/imdbench) - IMDBench — Realistic ORM benchmarking
+
+*   [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+
+*   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+
+*   [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
+
+*   [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
+
+*   [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
+
+*   [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
+
+*   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+
+*   [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
+
+*   [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
+
+*   [InstaPy/instagram-profilecrawl](https://github.com/InstaPy/instagram-profilecrawl) - 📝 quickly crawl the information (e.g. followers, tags etc...) of an instagram profile.
+
+*   [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
+
+*   [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
+
+*   [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 
 ## Rust
 
@@ -301,8 +407,6 @@
 
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-
 ## miscellaneous
 
 *   [antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) - A collection of Awesome low-code development platform (LCDP).
@@ -382,110 +486,6 @@
 *   [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium's OAuth2 API
 
 *   [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
-
-## Python
-
-*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
-
-*   [towhee-io/towhee](https://github.com/towhee-io/towhee) - Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.
-
-*   [prafulladiwesh/simskip](https://github.com/prafulladiwesh/simskip) - Deep Hashing for High Dimensional similarity search on embedded data using ImageNet and Glove Dataset using Deep Neural Network algorithms.
-
-*   [ustb-zhangmin/neural-hash](https://github.com/ustb-zhangmin/neural-hash) - some test about achieve hash function by neural net
-
-*   [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
-
-*   [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Marqo is more than a vector database, it's an end-to-end vector search engine for both text and images. Also available on cloud - cloud.marqo.ai
-
-*   [Sadiqush/RVSearch](https://github.com/Sadiqush/RVSearch) - Tool to reverse search videos on YouTube based on frame similarities found
-
-*   [qrzeller/OpenCV-Video-Comparison](https://github.com/qrzeller/OpenCV-Video-Comparison) - In order to compare multiple video, scene etc... Compute similarity, and say if video are of the same origin even if modified, altered, scene cutted or added and even content modification.
-
-*   [lyakaap/ISC21-Descriptor-Track-1st](https://github.com/lyakaap/ISC21-Descriptor-Track-1st) - The 1st Place Solution of the Facebook AI Image Similarity Challenge (ISC21) : Descriptor Track.
-
-*   [line/Meta-AI-Video-Similarity-Challenge-3rd-Place-Solution](https://github.com/line/Meta-AI-Video-Similarity-Challenge-3rd-Place-Solution) - The 3rd Place Solution of the Meta AI Video Similarity Challenge : Descriptor Track and Matching Track.
-
-*   [ahmetozlu/tensorflow\_object\_counting\_api](https://github.com/ahmetozlu/tensorflow_object_counting_api) - 🚀 The TensorFlow Object Counting API is an open source framework built on top of TensorFlow and Keras that makes it easy to develop object counting systems!
-
-*   [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
-
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-
-*   [teticio/lambda-scraper](https://github.com/teticio/lambda-scraper) - Use AWS Lambda functions as a proxy pool to scrape web pages.
-
-*   [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-
-*   [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically by just providing examples
-
-*   [alew3/faceit\_live](https://github.com/alew3/faceit_live) - Swap your face in realtime to someone's else.
-
-*   [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
-
-*   [BioRat1/ReBomb2](https://github.com/BioRat1/ReBomb2) - Newest version of the ReBomb: TikTok Mass Report Bot
-
-*   [HA6Bots/TikTok-Compilation-Video-Generator](https://github.com/HA6Bots/TikTok-Compilation-Video-Generator) - A system of bots that collects clips automatically via custom made filters, lets you easily browse these clips, and puts them together into a compilation video ready to be uploaded straight to any social media platform. Full VPS support is provided, along with an accounts system so multiple users can use the bot at once. This bot is split up into three separate programs. The server. The client. The video generator. These programs perform different functions that when combined creates a very powerful system for auto generating compilation videos.
-
-*   [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) -
-
-*   [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-
-*   [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
-
-*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
-
-*   [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-
-*   [makiisthenes/TiktokAutoUploader](https://github.com/makiisthenes/TiktokAutoUploader) - Automatically Edits Videos and Uploads to Tiktok with 1 line of code.
-
-*   [eps696/aphantasia](https://github.com/eps696/aphantasia) - CLIP + FFT/DWT/RGB = text to image/video
-
-*   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-
-*   [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
-
-*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
-
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
-
-*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
-
-*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-
-*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-
-*   [edgedb/imdbench](https://github.com/edgedb/imdbench) - IMDBench — Realistic ORM benchmarking
-
-*   [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
-
-*   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
-
-*   [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
-
-*   [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
-
-*   [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
-
-*   [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
-
-*   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-
-*   [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
-
-*   [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
-
-*   [InstaPy/instagram-profilecrawl](https://github.com/InstaPy/instagram-profilecrawl) - 📝 quickly crawl the information (e.g. followers, tags etc...) of an instagram profile.
-
-*   [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
-
-*   [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-
-*   [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 
 ## HTML
 
