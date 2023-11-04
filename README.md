@@ -26,7 +26,6 @@
 *   [Swift](#swift)
 *   [Makefile](#makefile)
 *   [TeX](#tex)
-*   [Blade](#blade)
 *   [Dockerfile](#dockerfile)
 *   [PHP](#php)
 *   [Pug](#pug)
@@ -204,6 +203,8 @@
 *   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
 *   [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
+
+*   [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 *   [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
 
@@ -658,10 +659,6 @@
 ## TeX
 
 *   [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page\_facing\_up: Awesome CV is LaTeX template for your outstanding job application
-
-## Blade
-
-*   [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## Dockerfile
 
