@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Java](#java)
 *   [TypeScript](#typescript)
+*   [Java](#java)
 *   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
@@ -32,17 +32,9 @@
 *   [PHP](#php)
 *   [Pug](#pug)
 
-## Java
-
-*   [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
-
-*   [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
-
-*   [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
-
-*   [gaia-app/gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻
-
 ## TypeScript
+
+*   [TheCoderDream/ngx-mic-recorder](https://github.com/TheCoderDream/ngx-mic-recorder) - Microphone recorder for angular
 
 *   [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 
@@ -110,7 +102,15 @@
 
 *   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
-*   [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
+## Java
+
+*   [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
+
+*   [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
+
+*   [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+
+*   [gaia-app/gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻
 
 ## JavaScript
 
