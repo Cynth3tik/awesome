@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [Java](#java)
 *   [JavaScript](#javascript)
@@ -22,7 +23,6 @@
 *   [R](#r)
 *   [C](#c-1)
 *   [Mustache](#mustache)
-*   [Vue](#vue)
 *   [HCL](#hcl)
 *   [Swift](#swift)
 *   [Makefile](#makefile)
@@ -31,6 +31,12 @@
 *   [Dockerfile](#dockerfile)
 *   [PHP](#php)
 *   [Pug](#pug)
+
+## Vue
+
+*   [zernonia/supabase-schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer
+
+*   [Goldfish-Social/Goldfish](https://github.com/Goldfish-Social/Goldfish) - Goldfish Social - Free open source alternative for Vine / TikTok (alpha). ActivityPub will come later!
 
 ## TypeScript
 
@@ -99,8 +105,6 @@
 *   [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 
 *   [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
-
-*   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
 ## Java
 
@@ -631,10 +635,6 @@
 ## Mustache
 
 *   [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
-
-## Vue
-
-*   [Goldfish-Social/Goldfish](https://github.com/Goldfish-Social/Goldfish) - Goldfish Social - Free open source alternative for Vine / TikTok (alpha). ActivityPub will come later!
 
 ## HCL
 
