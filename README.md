@@ -56,8 +56,6 @@
 
 *   [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 
-*   [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
-
 *   [amirrezasalimi/friday](https://github.com/amirrezasalimi/friday) - Friday is a developer assistant can make whole nodejs project for you with unlimited prompts
 
 *   [seveibar/postgrest-node](https://github.com/seveibar/postgrest-node) - Use postgrest (RESTful Postgres API) as an npm module and in serverless environments
@@ -181,6 +179,8 @@
 *   [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 
 *   [homanp/superagent-js](https://github.com/homanp/superagent-js) - Superagent Javascript SDK
+
+*   [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
 
 *   [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
 
