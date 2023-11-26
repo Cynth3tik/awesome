@@ -3,6 +3,7 @@
 ## Table of Contents
 
 *   [JavaScript](#javascript)
+*   [Perl](#perl)
 *   [TypeScript](#typescript)
 *   [Dart](#dart)
 *   [Python](#python)
@@ -33,6 +34,8 @@
 *   [Pug](#pug)
 
 ## JavaScript
+
+*   [ubc/node-canvas-api](https://github.com/ubc/node-canvas-api) - Access the Canvas API using Node.js. 54 functions (and counting)! Pull requests are welcome and appreciated.
 
 *   [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
 
@@ -148,9 +151,9 @@
 
 *   [oauthjs/node-oauth2-server](https://github.com/oauthjs/node-oauth2-server) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
 
-*   [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+## Perl
 
-*   [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
+*   [operepo/ope](https://github.com/operepo/ope) - Open Prison Education project - Code and scripts to enable offline docker services and offline laptop syncing for inmate education
 
 ## TypeScript
 
