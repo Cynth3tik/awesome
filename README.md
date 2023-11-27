@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [Perl](#perl)
 *   [TypeScript](#typescript)
@@ -9,7 +10,6 @@
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
-*   [CSS](#css)
 *   [C++](#c)
 *   [Go](#go)
 *   [Vue](#vue)
@@ -32,6 +32,14 @@
 *   [Dockerfile](#dockerfile)
 *   [PHP](#php)
 *   [Pug](#pug)
+
+## CSS
+
+*   [marcelodolza/iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
+
+*   [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
+
+*   [aloysius-tim/saas-react-starter-kit-boilerplate](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - SaaStr is a React SaaS boilerplate to kickstart your new SaaS adventure as fast as possible. Built on top of Adonis JS for the BackEnd and React Starter Kit for the Front-End
 
 ## JavaScript
 
@@ -148,8 +156,6 @@
 *   [nashwaan/xml-js](https://github.com/nashwaan/xml-js) - Converter utility between XML text and Javascript object / JSON text.
 
 *   [justadudewhohacks/opencv-express](https://github.com/justadudewhohacks/opencv-express) - Template for using opencv-3.4.1 + opencv-contrib with express.js and docker
-
-*   [oauthjs/node-oauth2-server](https://github.com/oauthjs/node-oauth2-server) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
 
 ## Perl
 
@@ -458,12 +464,6 @@
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 *   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
-
-## CSS
-
-*   [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
-
-*   [aloysius-tim/saas-react-starter-kit-boilerplate](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - SaaStr is a React SaaS boilerplate to kickstart your new SaaS adventure as fast as possible. Built on top of Adonis JS for the BackEnd and React Starter Kit for the Front-End
 
 ## C++
 
