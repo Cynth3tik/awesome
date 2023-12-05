@@ -502,8 +502,6 @@
 
 *   [cwlseu/deephash](https://github.com/cwlseu/deephash) - Based neural network hash method
 
-*   [vearch/vearch](https://github.com/vearch/vearch) - A distributed system for embedding-based vector retrieval
-
 *   [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
 
 *   [NodeRT/NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
@@ -521,6 +519,8 @@
 *   [machinebox/toys](https://github.com/machinebox/toys) - Tools, scripts, toys, and utilities for Machine Box
 
 *   [jssdeveloper/get\_ebay\_listings](https://github.com/jssdeveloper/get_ebay_listings) - Program written in Go to download active ebay items to csv file without using eBay web page. You can use Cron job to create daily imports.
+
+*   [vearch/vearch](https://github.com/vearch/vearch) - A distributed system for embedding-based vector retrieval
 
 *   [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
 
