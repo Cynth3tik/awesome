@@ -72,7 +72,7 @@
 
 *   [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
 
-*   [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
+*   [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open-source CSV importer
 
 *   [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 
