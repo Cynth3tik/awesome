@@ -3,6 +3,7 @@
 ## Table of Contents
 
 *   [JavaScript](#javascript)
+*   [Lua](#lua)
 *   [Shell](#shell)
 *   [Dockerfile](#dockerfile)
 *   [TypeScript](#typescript)
@@ -33,6 +34,10 @@
 *   [Pug](#pug)
 
 ## JavaScript
+
+*   [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
+
+*   [mayt/BrowserGPT](https://github.com/mayt/BrowserGPT) - Command your browser with GPT
 
 *   [sameer-ranjan-singh/Sell-My-Course](https://github.com/sameer-ranjan-singh/Sell-My-Course) - MERN stack Create/ Buy online course platform.
 
@@ -197,6 +202,10 @@
 *   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 
 *   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
+
+## Lua
+
+*   [PacktPublishing/Coding-Roblox-Games-Made-Easy](https://github.com/PacktPublishing/Coding-Roblox-Games-Made-Easy) - Coding Roblox Games Made Easy, published by Packt
 
 ## Shell
 
@@ -377,12 +386,6 @@
 *   [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 
 *   [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-
-*   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-
-*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 
 ## miscellaneous
 
