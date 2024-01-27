@@ -729,7 +729,7 @@
 
 *   [mylastore/svelte-kit](https://github.com/mylastore/svelte-kit) -
 
-*   [vhscom/svelte-headlessui-starter](https://github.com/vhscom/svelte-headlessui-starter) - 🚀 Launch your next Svelte app using Headless UI. Mirror of Svelte Headless UI Starter on Codeberg.
+*   [vhscom/svelte-headlessui-starter](https://github.com/vhscom/svelte-headlessui-starter) - 🚀 Launch your next Svelte app using Headless UI. Mirror of Svelte Headless UI Starter on Codeberg. :point\_down:
 
 *   [xulioc/sveltekit-supabase-dashboard](https://github.com/xulioc/sveltekit-supabase-dashboard) - Dashboard inspired by Supabase UI  and made with SvelteKit as frontend and Supabase as backend.
 
