@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Dart](#dart)
 *   [JavaScript](#javascript)
+*   [Dart](#dart)
 *   [Python](#python)
 *   [Lua](#lua)
 *   [Shell](#shell)
@@ -33,23 +33,13 @@
 *   [PHP](#php)
 *   [Pug](#pug)
 
-## Dart
-
-*   [ilshookim/simple-electron-nodejs-flutter-web](https://github.com/ilshookim/simple-electron-nodejs-flutter-web) - A simple Electron application using NodeJS with Flutter Web & Dart
-
-*   [RivaanRanawat/tiktok-flutter-clone](https://github.com/RivaanRanawat/tiktok-flutter-clone) - Full Stack TikTok Clone using Flutter, Firebase & GetX
-
-*   [hnvn/flutter\_flip\_panel](https://github.com/hnvn/flutter_flip_panel) - A package for flip panel with built-in animation
-
-*   [Ivaskuu/tinder\_cards](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect with Flutter.
-
-*   [olayemii/flutter-ui-kits](https://github.com/olayemii/flutter-ui-kits) - Free Flutter UI Kits developed by Olayemi Garuba
-
-*   [jeroensmeets/11t](https://github.com/jeroensmeets/11t) - 11t is an iOS and Android app for connecting to Mastodon, written in Flutter. 11t lets you use any Mastodon instance.
-
-*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-
 ## JavaScript
+
+*   [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.
+
+*   [L-U-M-E-N/lumen-server](https://github.com/L-U-M-E-N/lumen-server) -
+
+*   [L-U-M-E-N/lumen-desktop](https://github.com/L-U-M-E-N/lumen-desktop) - L.U.M.E.N. is a simple and modulable personal assistant built on Electron.
 
 *   [hayderux/electron-flutter](https://github.com/hayderux/electron-flutter) - A minimal electron application with flutter & dart
 
@@ -222,6 +212,22 @@
 *   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 
 *   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
+
+## Dart
+
+*   [ilshookim/simple-electron-nodejs-flutter-web](https://github.com/ilshookim/simple-electron-nodejs-flutter-web) - A simple Electron application using NodeJS with Flutter Web & Dart
+
+*   [RivaanRanawat/tiktok-flutter-clone](https://github.com/RivaanRanawat/tiktok-flutter-clone) - Full Stack TikTok Clone using Flutter, Firebase & GetX
+
+*   [hnvn/flutter\_flip\_panel](https://github.com/hnvn/flutter_flip_panel) - A package for flip panel with built-in animation
+
+*   [Ivaskuu/tinder\_cards](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect with Flutter.
+
+*   [olayemii/flutter-ui-kits](https://github.com/olayemii/flutter-ui-kits) - Free Flutter UI Kits developed by Olayemi Garuba
+
+*   [jeroensmeets/11t](https://github.com/jeroensmeets/11t) - 11t is an iOS and Android app for connecting to Mastodon, written in Flutter. 11t lets you use any Mastodon instance.
+
+*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 ## Python
 
@@ -528,12 +534,6 @@
 *   [keymetrics/pm2-io-apm](https://github.com/keymetrics/pm2-io-apm) - PM2.io APM for Node.JS
 
 *   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-
-*   [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
-
-*   [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 
 ## miscellaneous
 
