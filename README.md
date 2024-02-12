@@ -165,7 +165,7 @@
 
 *   [jssdeveloper/get\_ebay\_listings](https://github.com/jssdeveloper/get_ebay_listings) - Program written in Go to download active ebay items to csv file without using eBay web page. You can use Cron job to create daily imports.
 
-*   [vearch/vearch](https://github.com/vearch/vearch) - A distributed vector database for AI applications
+*   [vearch/vearch](https://github.com/vearch/vearch) - Vearch: Your Vector Search Database
 
 *   [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
 
