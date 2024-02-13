@@ -165,7 +165,7 @@
 
 *   [jssdeveloper/get\_ebay\_listings](https://github.com/jssdeveloper/get_ebay_listings) - Program written in Go to download active ebay items to csv file without using eBay web page. You can use Cron job to create daily imports.
 
-*   [vearch/vearch](https://github.com/vearch/vearch) - Vearch: Your Vector Search Database
+*   [vearch/vearch](https://github.com/vearch/vearch) - Vearch: Your Vector Search Infra
 
 *   [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
 
@@ -467,7 +467,7 @@
 
 *   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
-*   [makiisthenes/TiktokAutoUploader](https://github.com/makiisthenes/TiktokAutoUploader) - Automatically Edits Videos and Uploads to Tiktok with 1 line of code.
+*   [makiisthenes/TiktokAutoUploader](https://github.com/makiisthenes/TiktokAutoUploader) - Automatically Edits Videos and Uploads to Tiktok with CLI, Requests not Selenium.
 
 *   [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 
