@@ -127,7 +127,7 @@
 
 *   [aslink87/sveltekit-auth-template](https://github.com/aslink87/sveltekit-auth-template) - Sveltekit app template, with auth flow, airbnb eslint config, typescript, prisma orm, postgres via docker dev database, and Storybook
 
-*   [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡
+*   [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡
 
 *   [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 
