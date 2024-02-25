@@ -801,7 +801,7 @@
 
 *   [cwlseu/deephash](https://github.com/cwlseu/deephash) - Based neural network hash method
 
-*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 
 *   [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
 
