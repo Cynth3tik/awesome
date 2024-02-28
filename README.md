@@ -35,6 +35,8 @@
 
 ## JavaScript
 
+*   [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
+
 *   [irustm/figma-to-angular](https://github.com/irustm/figma-to-angular) - Figma to Angular
 
 *   [praveenscience/har-reader](https://github.com/praveenscience/har-reader) - A quick and neat HAR Reader using Node JS.
@@ -324,8 +326,6 @@
 *   [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-
-*   [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 
 ## Python
 
