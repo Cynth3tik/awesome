@@ -275,7 +275,7 @@
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 
-*   [homanp/superagent-js](https://github.com/homanp/superagent-js) - Superagent Javascript SDK
+*   [superagent-ai/superagent-js](https://github.com/superagent-ai/superagent-js) - Superagent Javascript SDK
 
 *   [homanp/superagent](https://github.com/homanp/superagent) - 🥷 Run AI-agents with an API
 
