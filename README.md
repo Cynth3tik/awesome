@@ -277,7 +277,7 @@
 
 *   [homanp/superagent-js](https://github.com/homanp/superagent-js) - Superagent Javascript SDK
 
-*   [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The Open Source AI Assistant Framework & API
+*   [homanp/superagent](https://github.com/homanp/superagent) - 🥷 Run AI-agents with an API
 
 *   [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
 
