@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -20,7 +21,6 @@
 *   [Perl](#perl)
 *   [C++](#c)
 *   [Vue](#vue)
-*   [Java](#java)
 *   [Scala](#scala)
 *   [Matlab](#matlab)
 *   [R](#r)
@@ -32,6 +32,18 @@
 *   [Blade](#blade)
 *   [PHP](#php)
 *   [Pug](#pug)
+
+## Java
+
+*   [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
+*   [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
+
+*   [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
+
+*   [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+
+*   [gaia-app/gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻
 
 ## miscellaneous
 
@@ -481,8 +493,6 @@
 
 *   [hokaccha/node-jwt-simple](https://github.com/hokaccha/node-jwt-simple) - JWT(JSON Web Token) encode and decode module for node.js
 
-*   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
-
 ## Go
 
 *   [GoneUp/mask-go](https://github.com/GoneUp/mask-go) - Control your "shining" LED mask with Golang
@@ -818,16 +828,6 @@
 *   [zernonia/supabase-schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer
 
 *   [Goldfish-Social/Goldfish](https://github.com/Goldfish-Social/Goldfish) - Goldfish Social - Free open source alternative for Vine / TikTok (alpha). ActivityPub will come later!
-
-## Java
-
-*   [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
-
-*   [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
-
-*   [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
-
-*   [gaia-app/gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻
 
 ## Scala
 
