@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
@@ -19,7 +20,6 @@
 *   [HTML](#html)
 *   [Svelte](#svelte)
 *   [Perl](#perl)
-*   [C++](#c)
 *   [Vue](#vue)
 *   [Scala](#scala)
 *   [Matlab](#matlab)
@@ -32,6 +32,26 @@
 *   [Blade](#blade)
 *   [PHP](#php)
 *   [Pug](#pug)
+
+## C++
+
+*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+
+*   [cwlseu/deephash](https://github.com/cwlseu/deephash) - Based neural network hash method
+
+*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+
+*   [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
+
+*   [NodeRT/NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
+
+*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 
 ## Java
 
@@ -199,7 +219,7 @@
 
 *   [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 
-*   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+*   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Providing AI Software Company, Towards Natural Language Programming
 
 *   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 
@@ -490,8 +510,6 @@
 *   [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 
 *   [pdaddyo/soundbounce](https://github.com/pdaddyo/soundbounce) - Social listening for Spotify - music sounds better together.
-
-*   [hokaccha/node-jwt-simple](https://github.com/hokaccha/node-jwt-simple) - JWT(JSON Web Token) encode and decode module for node.js
 
 ## Go
 
@@ -804,24 +822,6 @@
 ## Perl
 
 *   [operepo/ope](https://github.com/operepo/ope) - Open Prison Education project - Code and scripts to enable offline docker services and offline laptop syncing for inmate education
-
-## C++
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
-
-*   [cwlseu/deephash](https://github.com/cwlseu/deephash) - Based neural network hash method
-
-*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
-
-*   [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
-
-*   [NodeRT/NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-*   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
-
-*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 
 ## Vue
 
