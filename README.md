@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -18,7 +19,6 @@
 *   [Dockerfile](#dockerfile)
 *   [Ruby](#ruby)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [HTML](#html)
 *   [Svelte](#svelte)
 *   [Perl](#perl)
 *   [Vue](#vue)
@@ -33,6 +33,26 @@
 *   [Blade](#blade)
 *   [PHP](#php)
 *   [Pug](#pug)
+
+## HTML
+
+*   [SAMMISolutions/SAMMI-Official](https://github.com/SAMMISolutions/SAMMI-Official) - Official SAMMI download
+
+*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
+
+*   [SanDiegoCodeSchool/lti-node-example](https://github.com/SanDiegoCodeSchool/lti-node-example) - Example of an LTI 1.3 Tool Provider
+
+*   [somanath-goudar/html-css-projects](https://github.com/somanath-goudar/html-css-projects) -
+
+*   [kikkia/NeuralHashApi](https://github.com/kikkia/NeuralHashApi) - Basic http api to run neural hash on a given image and return the result
+
+*   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+*   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 
 ## Kotlin
 
@@ -313,8 +333,6 @@
 *   [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
 
 *   [BobNisco/Spotlistr](https://github.com/BobNisco/Spotlistr) - 🎧 Convert Anything to a Spotify Playlist!
-
-*   [google/palette.js](https://github.com/google/palette.js) - Script for generating colour palettes for use with graphs, charts and cartography.
 
 ## Go
 
@@ -769,24 +787,6 @@
 *   [CoderHam/VideoSimilarity](https://github.com/CoderHam/VideoSimilarity) - Capstone Project for MS in Data Science @ University of Washington - Video Similarity Search
 
 *   [mfrashad/text2art](https://github.com/mfrashad/text2art) - AI-powered Text-to-Art Generator - Text2Art.com
-
-## HTML
-
-*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
-
-*   [SanDiegoCodeSchool/lti-node-example](https://github.com/SanDiegoCodeSchool/lti-node-example) - Example of an LTI 1.3 Tool Provider
-
-*   [somanath-goudar/html-css-projects](https://github.com/somanath-goudar/html-css-projects) -
-
-*   [kikkia/NeuralHashApi](https://github.com/kikkia/NeuralHashApi) - Basic http api to run neural hash on a given image and return the result
-
-*   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-
-*   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 
 ## Svelte
 
