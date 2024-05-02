@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [PHP](#php)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -10,7 +11,7 @@
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Java](#java)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
 *   [Rust](#rust)
@@ -26,13 +27,22 @@
 *   [Scala](#scala)
 *   [Matlab](#matlab)
 *   [R](#r)
-*   [C](#c-1)
 *   [Mustache](#mustache)
 *   [HCL](#hcl)
 *   [Swift](#swift)
 *   [TeX](#tex)
 *   [Blade](#blade)
 *   [Pug](#pug)
+
+## C
+
+*   [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
+
+*   [AiPratice/VideoAnalysisEngine](https://github.com/AiPratice/VideoAnalysisEngine) -  A video analysis engine with similarity frame retrieval,keyframe faces recognition,keyframe objects detection and etc.
+
+*   [tarruda/llama.cpp](https://github.com/tarruda/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
 ## PHP
 
@@ -494,8 +504,6 @@
 
 *   [bee-queue/bee-queue](https://github.com/bee-queue/bee-queue) - A simple, fast, robust job/task queue for Node.js, backed by Redis.
 
-*   [nashwaan/xml-js](https://github.com/nashwaan/xml-js) - Converter utility between XML text and Javascript object / JSON text.
-
 ## Go
 
 *   [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
@@ -853,14 +861,6 @@
 ## R
 
 *   [nlgarlic/YouTube-Related-Video-Similarity](https://github.com/nlgarlic/YouTube-Related-Video-Similarity) - This repository includes R code that can be used to assess the similarity between a YouTube video and the related videos recommened by YouTube, as defined by the YouTube API.
-
-## C
-
-*   [AiPratice/VideoAnalysisEngine](https://github.com/AiPratice/VideoAnalysisEngine) -  A video analysis engine with similarity frame retrieval,keyframe faces recognition,keyframe objects detection and etc.
-
-*   [tarruda/llama.cpp](https://github.com/tarruda/llama.cpp) - Port of Facebook's LLaMA model in C/C++
-
-*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
 ## Mustache
 
