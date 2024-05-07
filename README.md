@@ -27,7 +27,7 @@
 *   [Scala](#scala)
 *   [Matlab](#matlab)
 *   [R](#r)
-*   [Mustache](#mustache)
+*   [Smarty](#smarty)
 *   [HCL](#hcl)
 *   [Swift](#swift)
 *   [TeX](#tex)
@@ -862,7 +862,7 @@
 
 *   [nlgarlic/YouTube-Related-Video-Similarity](https://github.com/nlgarlic/YouTube-Related-Video-Similarity) - This repository includes R code that can be used to assess the similarity between a YouTube video and the related videos recommened by YouTube, as defined by the YouTube API.
 
-## Mustache
+## Smarty
 
 *   [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 
