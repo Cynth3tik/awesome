@@ -36,6 +36,8 @@
 
 ## TypeScript
 
+*   [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind) - AI for Screeps, a multiplayer programming strategy game
+
 *   [Mirroar/hivemind](https://github.com/Mirroar/hivemind) - Fully automated open source AI core for the game screeps. Also usable as an opponent on private servers.
 
 *   [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
@@ -721,8 +723,6 @@
 *   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 
 *   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 ## Dart
 
