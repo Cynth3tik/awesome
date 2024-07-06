@@ -236,6 +236,8 @@
 
 *   [teamclairvoyant/saleor-storefront-poc](https://github.com/teamclairvoyant/saleor-storefront-poc) - Customizing Saleor storefront to add more features and evaluate.
 
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.
+
 *   [ebouJ/E-learning](https://github.com/ebouJ/E-learning) -
 
 *   [livekit/components-js](https://github.com/livekit/components-js) - Official open source React components and examples for building with LiveKit.
@@ -791,8 +793,6 @@
 *   [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
 
 ## Jupyter Notebook
-
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.
 
 *   [yandexdataschool/Practical\_RL](https://github.com/yandexdataschool/Practical_RL) - A course in reinforcement learning in the wild
 
