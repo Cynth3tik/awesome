@@ -740,7 +740,7 @@
 
 *   [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 
-*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. BSL licensed.
+*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library
 
 *   [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 
