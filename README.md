@@ -822,7 +822,7 @@
 
 *   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 
-*   [cwlseu/deephash](https://github.com/cwlseu/deephash) - Based neural network hash method
+*   [deepindeed2022/deephash](https://github.com/deepindeed2022/deephash) - Based neural network hash method
 
 *   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 
