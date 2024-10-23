@@ -154,8 +154,6 @@
 
 *   [mcollina/fastq](https://github.com/mcollina/fastq) - Fast, in memory work queue
 
-*   [Lorenzik/TMRB](https://github.com/Lorenzik/TMRB) - TikTok Mass Report Bot
-
 *   [rfink/sequelize-redis-cache](https://github.com/rfink/sequelize-redis-cache) - Small fluent interface for caching sequelize database query results in redis more easily
 
 *   [zinirun/sequelize-redis-caching](https://github.com/zinirun/sequelize-redis-caching) - Redis caching in CRUD works with Sequelize (MySQL)
@@ -521,6 +519,8 @@
 *   [antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) - A collection of Awesome low-code development platform (LCDP).
 
 *   [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers
+
+*   [Lorenzik/TMRB](https://github.com/Lorenzik/TMRB) - TikTok Mass Report Bot
 
 *   [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 
