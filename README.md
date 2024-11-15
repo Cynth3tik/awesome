@@ -11,7 +11,6 @@
 *   [Vue](#vue)
 *   [C++](#c)
 *   [Go](#go)
-*   [C](#c-1)
 *   [PHP](#php)
 *   [HTML](#html)
 *   [Kotlin](#kotlin)
@@ -27,6 +26,7 @@
 *   [Scala](#scala)
 *   [Matlab](#matlab)
 *   [R](#r)
+*   [C](#c-1)
 *   [Smarty](#smarty)
 *   [HCL](#hcl)
 *   [Swift](#swift)
@@ -818,6 +818,8 @@
 
 *   [ZackBradshaw/Bluepy](https://github.com/ZackBradshaw/Bluepy) - Plugin for unreal to generate blueprints using Gen AI
 
+*   [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
+
 *   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 *   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
@@ -885,16 +887,6 @@
 *   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
 *   [friendsofgo/killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go
-
-## C
-
-*   [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
-
-*   [AiPratice/VideoAnalysisEngine](https://github.com/AiPratice/VideoAnalysisEngine) -  A video analysis engine with similarity frame retrieval,keyframe faces recognition,keyframe objects detection and etc.
-
-*   [tarruda/llama.cpp](https://github.com/tarruda/llama.cpp) - Port of Facebook's LLaMA model in C/C++
-
-*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
 ## PHP
 
@@ -1061,6 +1053,14 @@
 ## R
 
 *   [nlgarlic/YouTube-Related-Video-Similarity](https://github.com/nlgarlic/YouTube-Related-Video-Similarity) - This repository includes R code that can be used to assess the similarity between a YouTube video and the related videos recommened by YouTube, as defined by the YouTube API.
+
+## C
+
+*   [AiPratice/VideoAnalysisEngine](https://github.com/AiPratice/VideoAnalysisEngine) -  A video analysis engine with similarity frame retrieval,keyframe faces recognition,keyframe objects detection and etc.
+
+*   [tarruda/llama.cpp](https://github.com/tarruda/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
 ## Smarty
 
