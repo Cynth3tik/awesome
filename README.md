@@ -432,7 +432,7 @@
 
 *   [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 
-*   [illright/attractions](https://github.com/illright/attractions) - A pretty cool UI kit for Svelte
+*   [illright/attractions](https://github.com/illright/attractions) - \[DEPRECATED, see readme] A pretty cool UI kit for Svelte
 
 *   [mylastore/svelte-kit](https://github.com/mylastore/svelte-kit) -
 
