@@ -81,7 +81,7 @@
 
 *   [mayt/BrowserGPT](https://github.com/mayt/BrowserGPT) - Command your browser with GPT
 
-*   [sameer-ranjan-singh/Sell-My-Course](https://github.com/sameer-ranjan-singh/Sell-My-Course) - MERN stack Create/ Buy online course platform.
+*   [samyyzz/Sell-My-Course](https://github.com/samyyzz/Sell-My-Course) - MERN stack Create/ Buy online course platform.
 
 *   [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
 
