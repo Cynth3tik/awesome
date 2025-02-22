@@ -389,9 +389,9 @@
 
 *   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
-*   [edgedb/imdbench](https://github.com/edgedb/imdbench) - IMDBench — Realistic ORM benchmarking
+*   [geldata/imdbench](https://github.com/geldata/imdbench) - IMDBench — Realistic ORM benchmarking
 
-*   [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+*   [geldata/gel](https://github.com/geldata/gel) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 
 *   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 
