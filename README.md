@@ -102,7 +102,7 @@
 
 *   [ubc/node-canvas-api](https://github.com/ubc/node-canvas-api) - Access the Canvas API using Node.js. 54 functions (and counting)! Pull requests are welcome and appreciated.
 
-*   [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
+*   [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
 
 *   [Dwitrisha/VidBits](https://github.com/Dwitrisha/VidBits) - TikTok Clone: Video sharing social app
 
