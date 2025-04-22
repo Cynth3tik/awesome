@@ -226,7 +226,7 @@
 
 *   [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
 
-*   [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
+*   [microsoft/UFO](https://github.com/microsoft/UFO) - The Desktop AgentOS.
 
 *   [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) - VMware Workstation macOS
 
