@@ -162,8 +162,6 @@
 
 *   [zerodytrash/TikTok-Chat-Reader](https://github.com/zerodytrash/TikTok-Chat-Reader) - Website to display chats and gifts in realtime from your TikTok LIVE stream. Demo project for TikTok-Live-Connector library.
 
-*   [zerodytrash/TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) - Node.js library to receive live stream events (comments, gifts, etc.) in realtime from TikTok LIVE.
-
 *   [Maxson52/sveltekit-express-google-auth](https://github.com/Maxson52/sveltekit-express-google-auth) - A web-app template featuring a SvelteKit frontend and Express backend, with Passport and Google OAuth 2.0
 
 *   [immers-space/immers](https://github.com/immers-space/immers) - ActivityPub federated social media server for the metaverse
@@ -599,6 +597,8 @@
 *   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 
 *   [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
+
+*   [zerodytrash/TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) - Node.js library to receive live stream events (comments, gifts, etc.) in realtime from TikTok LIVE.
 
 *   [aslink87/sveltekit-auth-template](https://github.com/aslink87/sveltekit-auth-template) - Sveltekit app template, with auth flow, airbnb eslint config, typescript, prisma orm, postgres via docker dev database, and Storybook
 
