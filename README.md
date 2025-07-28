@@ -266,7 +266,7 @@
 
 *   [cowboy-bebug/app-store-scraper](https://github.com/cowboy-bebug/app-store-scraper) - Single API ☝ App Store Review Scraper 🧹
 
-*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
+*   [zai-org/CodeGeeX](https://github.com/zai-org/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 
 *   [towhee-io/towhee](https://github.com/towhee-io/towhee) - Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.
 
