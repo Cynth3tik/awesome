@@ -654,7 +654,7 @@
 
 ## Go
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GPT-OSS, DeepSeek-R1, Gemma 3 and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 
 *   [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
 
