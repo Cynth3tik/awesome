@@ -74,8 +74,6 @@
 
 *   [L-U-M-E-N/lumen-desktop](https://github.com/L-U-M-E-N/lumen-desktop) - L.U.M.E.N. is a simple and modulable personal assistant built on Electron.
 
-*   [hayderux/electron-flutter](https://github.com/hayderux/electron-flutter) - A minimal electron application with flutter & dart
-
 *   [jeremydaly/lambda-warmer](https://github.com/jeremydaly/lambda-warmer) - A module to optimize AWS Lambda function cold starts
 
 *   [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
@@ -333,6 +331,8 @@
 *   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 *   [geldata/imdbench](https://github.com/geldata/imdbench) - IMDBench — Realistic ORM benchmarking
+
+*   [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 
 ## Ruby
 
