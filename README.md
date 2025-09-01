@@ -27,7 +27,7 @@
 *   [Matlab](#matlab)
 *   [R](#r)
 *   [C](#c-1)
-*   [Smarty](#smarty)
+*   [Mustache](#mustache)
 *   [HCL](#hcl)
 *   [Swift](#swift)
 *   [TeX](#tex)
@@ -864,7 +864,7 @@
 
 *   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
-## Smarty
+## Mustache
 
 *   [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 
