@@ -384,7 +384,7 @@
 
 *   [zingchart/awesome-charting](https://github.com/zingchart/awesome-charting) - A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries
 
-*   [aardio/WinAsar](https://github.com/aardio/WinAsar) - Portable and lightweight GUI utility to pack and extract asar( electron archive ) files, Only 551 KB!
+*   [aardio/WinAsar](https://github.com/aardio/WinAsar) - Portable and lightweight GUI utility to pack and extract asar( Electron archive ) files, Only 551 KB!
 
 *   [notrab/awesome-headless-commerce](https://github.com/notrab/awesome-headless-commerce) - A community curated list of headless commerce APIs, products, and services. A heads-up for modern store builders.
 
