@@ -216,7 +216,7 @@
 
 *   [fbanespo1/figma2angular](https://github.com/fbanespo1/figma2angular) - Figma to Angular converter
 
-*   [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
+*   [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - The first "code-first" agent framework for seamlessly planning and executing data analytics tasks.
 
 *   [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 
