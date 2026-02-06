@@ -33,7 +33,6 @@
 *   [TeX](#tex)
 *   [Blade](#blade)
 *   [Pug](#pug)
-*   [MDX](#mdx)
 
 ## JavaScript
 
@@ -723,6 +722,8 @@
 
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
 *   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 
 ## Kotlin
@@ -894,7 +895,3 @@
 ## Pug
 
 *   [StartBootstrap/startbootstrap-sb-admin](https://github.com/StartBootstrap/startbootstrap-sb-admin) - A free, open source, Bootstrap admin theme created by Start Bootstrap
-
-## MDX
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
