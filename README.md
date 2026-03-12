@@ -359,8 +359,6 @@
 
 *   [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
 
-*   [nstuyvesant/sveltekit-auth-example](https://github.com/nstuyvesant/sveltekit-auth-example) - SvelteKit Authentication Example
-
 *   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 *   [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
@@ -600,6 +598,8 @@
 *   [aslink87/sveltekit-auth-template](https://github.com/aslink87/sveltekit-auth-template) - Sveltekit app template, with auth flow, airbnb eslint config, typescript, prisma orm, postgres via docker dev database, and Storybook
 
 *   [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+
+*   [nstuyvesant/sveltekit-auth-example](https://github.com/nstuyvesant/sveltekit-auth-example) - SvelteKit Authentication Example
 
 *   [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 
