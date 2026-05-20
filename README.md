@@ -29,6 +29,7 @@
 *   [C](#c-1)
 *   [Mustache](#mustache)
 *   [HCL](#hcl)
+*   [SCSS](#scss)
 *   [Swift](#swift)
 *   [TeX](#tex)
 *   [Pug](#pug)
@@ -360,8 +361,6 @@
 *   [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
 
 *   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-
-*   [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 
 *   [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
 
@@ -876,6 +875,10 @@
 *   [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem
 
 *   [cloudposse/terraform-aws-rds](https://github.com/cloudposse/terraform-aws-rds) -  Terraform module to provision AWS RDS instances
+
+## SCSS
+
+*   [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 
 ## Swift
 
