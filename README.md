@@ -32,6 +32,7 @@
 *   [SCSS](#scss)
 *   [Swift](#swift)
 *   [TeX](#tex)
+*   [Makefile](#makefile)
 *   [Pug](#pug)
 
 ## TypeScript
@@ -116,7 +117,7 @@
 
 *   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
+*   [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 
 *   [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers.
 
@@ -814,8 +815,6 @@
 
 *   [gezp/docker-ubuntu-desktop](https://github.com/gezp/docker-ubuntu-desktop) - Docker Image for Ubuntu Desktop which support HW GPU accelerated GUI apps. you can access the Container with ssh or remote desktop,  just like Cloud VM.
 
-*   [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
-
 *   [renovatebot/docker-renovate-full](https://github.com/renovatebot/docker-renovate-full) - Repo for building the renovate/renovate:full image
 
 *   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
@@ -891,6 +890,10 @@
 ## TeX
 
 *   [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page\_facing\_up: Awesome CV is LaTeX template for your outstanding job application
+
+## Makefile
+
+*   [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 
 ## Pug
 
